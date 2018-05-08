@@ -1,5 +1,5 @@
 #lang racket/gui
-
+;[Developed by Mohit Gupta and Manas Shukla]
 ;[basic function ]
 
 (define (is-present? x l)
